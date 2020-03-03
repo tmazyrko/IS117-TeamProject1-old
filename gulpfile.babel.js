@@ -154,7 +154,7 @@ gulp.task(
     //'copy:.htaccess',
     'copy:index.html',
     'copy:jquery',
-    'copy:license',
+    //'copy:license',
     'copy:main.css',
     'copy:misc',
     'copy:normalize'
