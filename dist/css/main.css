@@ -159,8 +159,8 @@ menu {
   line-height: 160px;
 }
 #logo img {
-  height: 160px;
-  width: 160px;
+  height: 120px;
+  width: auto;
 }
 
 .callout {
@@ -170,7 +170,7 @@ menu {
 }
 .centerimg {
   width: 1208px;
-  height: 746px;
+  height: auto;
 }
 
 footer {
